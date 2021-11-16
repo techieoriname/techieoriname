@@ -1,6 +1,9 @@
 ### Techie Oriname - <code>\<code\> ßlooded Developer</code>
 
 <p>Hello, my name is Oriname, I am a Software Engineer with 5+ years of experience in developing web based enterprise applications with special interest in server side services, tools/libraries, frameworks and presentation services. If you would like to chat, please send me a message on here, or find me on Twitter at <a href="http://www.twitter.com/techieoriname">@techieoriname</a>.</p>
+  <a href="https://github.com/xpresser/framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techieoriname&repo=framework">
+  </a>
 
 ## Current Stack
 
